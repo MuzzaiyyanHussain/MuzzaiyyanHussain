@@ -1,71 +1,133 @@
-<!-- Muzzaiyyan Hussain | Aspiring Web3 & Full-Stack Developer -->
+<!-- Muzzaiyyan Hussain | Full Stack & DevOps Engineer --><h1 align="center">Hi, I'm Muzzaiyyan Hussain 👋</h1>
+<h3 align="center">Full Stack & DevOps Engineer</h3><p align="center">
+Building scalable backend systems, cloud-native applications, and developer-focused tools.
+</p>---
 
-<h1 align="center">Hi, I'm Muzzaiyyan Hussain 👋</h1>
-<h3 align="center">Aspiring Web3 Developer & Full-Stack Builder</h3>
-
----
-
-🌐 **Bridging Web2 & Web3 worlds with code, curiosity, and community.**  
-🔗 [Personal Website](https://muzzaiyyan.xyz) • [LinkedIn](https://www.linkedin.com/in/muzzaiyyan-hussain-55641a30a) • [Twitter (X)](https://www.x.com/devmuzzaiyyan)
-
----
-
-## 🚀 About Me
-
-- 🛠️ **Full-Stack & Web3 Developer:**  
-  Proficient in JavaScript, TypeScript, Rust, Solidity, and learning C++.  
-  Frameworks & Tools: React (Vite/Next.js), Node.js, Tailwind CSS, PostgreSQL, Hardhat, Foundry, Anchor, Actix, Docker, Git/GitHub, DevOps (learning).
-
-- 💡 **Builder & Innovator:**  
-  I love creating robust dApps, secure smart contracts, and scalable full-stack applications.
-
-- 🛡️ **Smart Contract Security:**  
-  Passionate about bug bounties, exploits, audits, and contributing to open-source security efforts.
+🌐 Portfolio: <a href="https://muzzaiyyan.xyz">muzzaiyyan.xyz</a>
+💼 LinkedIn: <a href="https://www.linkedin.com/in/muzzaiyyan-hussain-55641a30a">Muzzaiyyan Hussain</a>
+🐦 Twitter/X: <a href="https://www.x.com/devmuzzaiyyan">@devmuzzaiyyan</a>
 
 ---
 
-## 🏆 Featured Projects
+🚀 About Me
 
-- **Ethereum Wallet DApp:**  
-  _Send/receive/swap tokens, robust key management._  
-- **Staking & Proxy-Staking Smart Contracts:**  
-  _Secure, scalable contracts built with Solidity and Foundry._  
-- **Rust Backend API:**  
-  _High-performance API using Actix + PostgreSQL._  
-- **Full-Stack Web Apps:**  
-  _Modern apps with React + Node.js, optimized for UX and scalability._
+- 🛠️ Full Stack & Backend Engineer with experience building scalable applications and APIs using:
+  
+  - JavaScript / TypeScript
+  - Node.js / React / Next.js
+  - PostgreSQL / Prisma
+  - Rust (Actix) & Go
+  - Docker / Kubernetes / AWS
+  - CI/CD & cloud infrastructure
 
-[Explore my projects & code](https://github.com/MuzzaiyyanHussain?tab=repositories) 🚀
+- 🔍 Strong interest in:
+  
+  - Backend architecture
+  - Cloud infrastructure
+  - Distributed systems
+  - DevOps & automation
+  - Open-source software
 
----
-
-## 🔥 Interests & Passions
-
-- Blockchain & Smart Contract Security
-- Decentralized Applications (Ethereum, Solana)
-- Open-Source Contributions
-- Learning low-level languages (Rust, C++)
-- DevOps & Automation for scalable apps
+- 🧩 Active open-source contributor focused on improving reliability, developer experience, and backend systems.
 
 ---
 
-## 🤝 Connect with Me
+🏆 Open Source Contributions
 
-- 🌐 **Website:** [muzzaiyyan.xyz](https://muzzaiyyan.xyz)
-- 💼 **LinkedIn:** [Muzzaiyyan Hussain](https://www.linkedin.com/in/muzzaiyyan-hussain-55641a30a)
-- 🐦 **Twitter (X):** [@devmuzzaiyyan](https://www.x.com/devmuzzaiyyan)
-- 📂 **GitHub:** [MuzzaiyyanHussain](https://github.com/MuzzaiyyanHussain)
+Contributed fixes, tests, and improvements to multiple open-source projects:
+
+- BetterAuth — Adapter types & MongoDB error fixes
+- Supabase — TypeScript inference improvements
+- Infisical — Upsert tags fix
+- Aden — Tests & export fixes
+
+🔗 <a href="https://github.com/MuzzaiyyanHussain">View GitHub Profile</a>
 
 ---
 
-## 💬 Fun Fact / Motto
+⚡ Featured Projects
 
-> “Code it. Break it. Fix it. Learn it.”
+Rust Backend API
 
-_Always passionate about learning deeply and building projects that bridge Web2 and Web3 worlds._
+High-performance backend API built with:
+
+- Actix Web
+- JWT authentication
+- SQLx
+- PostgreSQL
+- Rate limiting
+
+Go REST API
+
+REST server focused on:
+
+- Concurrency
+- Performance
+- Clean architecture
+
+AI UI Generator
+
+Full-stack AI application built using:
+
+- Next.js
+- Prisma
+- AI SDK
+
+Full Stack Applications
+
+Modern web applications using:
+
+- React
+- Next.js
+- Node.js
+- PostgreSQL
+
+---
+
+🧰 Tech Stack
+
+Languages
+
+JavaScript • TypeScript • Rust • Go • Python
+
+Backend & Infrastructure
+
+Node.js • Express • PostgreSQL • Prisma • REST APIs • Docker • Kubernetes • Terraform • AWS
+
+Monitoring & DevOps
+
+CI/CD • Grafana • Prometheus • New Relic
+
+Frontend
+
+React • Next.js • Tailwind CSS • Vite
+
+---
+
+📚 Currently Learning
+
+- Advanced Rust
+- Distributed systems
+- Infrastructure & DevOps
+- Cloud-native backend engineering
+
+---
+
+🤝 Connect With Me
+
+- 🌐 Website: https://muzzaiyyan.xyz
+- 💼 LinkedIn: https://www.linkedin.com/in/muzzaiyyan-hussain-55641a30a
+- 🐙 GitHub: https://github.com/MuzzaiyyanHussain
+- 🐦 Twitter/X: https://www.x.com/devmuzzaiyyan
+
+---
+
+💬 Motto
+
+«“Code it. Break it. Fix it. Learn it.”»
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuzzaiyyanHussain&show_icons=true&hide_border=true&theme=radical" alt="Muzzaiyyan Hussain GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuzzaiyyanHussain&show_icons=true&hide_border=true" alt="GitHub Stats" />
 </div>
