@@ -115,7 +115,7 @@ React • Next.js • Tailwind CSS • Vite
 
 🤝 Connect With Me
 
-- 🌐 Website: https://muzzaiyyan.xyz
+- 🌐 Website: https://muzzaiyyan.vercek.app
 - 💼 LinkedIn: https://www.linkedin.com/in/muzzaiyyan-hussain-55641a30a
 - 🐙 GitHub: https://github.com/MuzzaiyyanHussain
 - 🐦 Twitter/X: https://www.x.com/devmuzzaiyyan
